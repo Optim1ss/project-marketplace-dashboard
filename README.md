@@ -6,7 +6,7 @@
 ## Данные
 - 7 связанных таблиц
 - 500 000+ заказов
-- Период: 2022–2024 гг.
+- Период: июнь 2024 — май 2025
 
 ## Стек
 SQL (PostgreSQL), Python (pandas), Apache Superset
@@ -53,3 +53,4 @@ SQL (PostgreSQL), Python (pandas), Apache Superset
 - Снижение LTV в конце периода объясняется тем, что свежие когорты
   ещё не дозрели до полного цикла покупок.
   
+Код анализа — в [Project-marketplace.ipynb](Project-marketplace.ipynb).
